@@ -1,4 +1,8 @@
-## Hi there 👋
+## Dalila Ressi 
+
+Postdoc at Ca' Foscari University of Venice, Italy
+I am a multi-disciplinary researcher, with a Machine Learning background.
+Right now, I am studying the security aspects of blockchain and programming languages both from formal methods and ML POVs.
 
 <!--
 **DalilaRessi91/DalilaRessi91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
